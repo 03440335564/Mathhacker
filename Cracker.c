@@ -36,8 +36,8 @@ int main()
 	break;
 		case'%':
 			result=(num1*100)/toatal;
-			printf("result = %.3f%",result);
-			printf("%");
+			printf("result = %3f",result);
+			
 			break;
 			
 
